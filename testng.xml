@@ -4,6 +4,8 @@
 
 	<!-- <groups> <define name="smokesanity"> <include name="smoke"></include> 
 		<include name="sanity"></include> </define> <define name="all"> <include 
+<include name="sanity"></include> </define> <define name="all"> <include 
+		name="smoke"></include> <include name="sanity"></include> </define> <define 
 		name="smoke"></include> <include name="sanity"></include> </define> <define 
 		name="thirdgroup"> <include name="smoke"></include> <include name="sanity"></include> 
 		</define> <run> <include name="all"></include> </run> </groups> -->
